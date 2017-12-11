@@ -1,3 +1,9 @@
+# extension
+    扩展文件
+        1. layer        弹出框插件   github地址：https://github.com/sentsin/layer
+        2. my97date     时间插件    官网地址：http://www.my97.net/
+        3. ueditor      富文本编辑器 github地址：https://github.com/fex-team/ueditor
+
 # region
 
 一个包含省市层级关系的js对象
